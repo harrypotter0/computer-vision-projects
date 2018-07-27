@@ -32,4 +32,6 @@ Some simple computer vision implementations using OpenCV such as:
 - Feature detection (SIFT and ORB) to do object detection and implementing dbject detection for faces and cars.
 - Generative Adversarial Networks (GANs) applied to image.
 
-![GIf hai boss](https://github.com/harrypotter0/ML_on_FACE/blob/master/test1.gif "Logo Title Text 1")
+## 1. Detecting the objects real time  
+![GIf hai boss](https://github.com/harrypotter0/computer-vision-projects/blob/master/deep_learning.gif "Logo Title Text 1")
+
