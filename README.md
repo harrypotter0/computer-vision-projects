@@ -31,3 +31,5 @@ Some simple computer vision implementations using OpenCV such as:
 - Approximating contours, contour filtering and ordering.Segmenting images by understanding contours, circle, and line detection.
 - Feature detection (SIFT and ORB) to do object detection and implementing dbject detection for faces and cars.
 - Generative Adversarial Networks (GANs) applied to image.
+
+![GIf hai boss](https://github.com/harrypotter0/ML_on_FACE/blob/master/test1.gif "Logo Title Text 1")
